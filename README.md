@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My pronouns are she/her
-I'm currently working on making a website
-I'm currently learning HTML and Python
+My pronouns are she/her  
+I'm currently working on making a website  
+I'm currently learning HTML and Python  
 
 <!--
 **emschristine/emschristine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
